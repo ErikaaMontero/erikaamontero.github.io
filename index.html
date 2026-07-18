@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Erika Montero — Cátedra de Física Básica UASD 2026-2030</title>
+  <meta name="description" content="Candidatura de la Prof. Erika Montero a la Coordinación de la Cátedra de Física Básica de la UASD, período 2026-2030.">
+  <style>
+    :root {
+      --bg: #0b1e3a;
+      --bg-accent: #123056;
+      --fg: #eaf1fb;
+      --muted: #9db4d4;
+      --accent: #f5b301;
+      --accent-soft: rgba(245, 179, 1, 0.15);
+      --card: rgba(255, 255, 255, 0.04);
+      --border: rgba(255, 255, 255, 0.12);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body { height: 100%; }
+
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: var(--fg);
+      background:
+        radial-gradient(1200px 600px at 50% -10%, var(--bg-accent), transparent 70%),
+        linear-gradient(160deg, var(--bg), #06132a);
+      min-height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1.25rem;
+      line-height: 1.55;
+      text-align: center;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      background: var(--accent-soft);
+      border: 1px solid rgba(245, 179, 1, 0.35);
+      padding: 0.4rem 0.9rem;
+      border-radius: 999px;
+      margin-bottom: 1.75rem;
+    }
+
+    .badge::before {
+      content: "";
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.75); }
+    }
+
+    h1 {
+      font-size: clamp(1.9rem, 5vw, 3.2rem);
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      line-height: 1.1;
+      margin-bottom: 0.5rem;
+    }
+
+    .subtitle {
+      font-size: clamp(1rem, 2.5vw, 1.35rem);
+      color: var(--accent);
+      font-weight: 600;
+      margin-bottom: 0.35rem;
+    }
+
+    .period {
+      color: var(--muted);
+      font-size: 1rem;
+      letter-spacing: 0.05em;
+      margin-bottom: 2.25rem;
+    }
+
+    .lead {
+      max-width: 46ch;
+      color: var(--muted);
+      font-size: 1.05rem;
+      margin: 0 auto 2.5rem;
+    }
+
+    .pillars {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0.75rem;
+      width: 100%;
+      max-width: 720px;
+      margin: 0 auto 2.5rem;
+    }
+
+    .pillar {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 0.85rem 0.75rem;
+      font-size: 0.9rem;
+      color: var(--fg);
+    }
+
+    .pillar span {
+      display: block;
+      color: var(--accent);
+      font-weight: 700;
+      font-size: 0.78rem;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.15rem;
+    }
+
+    footer {
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    footer strong { color: var(--fg); font-weight: 600; }
+  </style>
+</head>
+<body>
+  <span class="badge">Sitio en construcción</span>
+
+  <h1>Prof. Erika Montero</h1>
+  <p class="subtitle">Coordinación de la Cátedra de Física Básica</p>
+  <p class="period">Universidad Autónoma de Santo Domingo · 2026&ndash;2030</p>
+
+  <p class="lead">
+    Estamos preparando este espacio para presentar la propuesta de gestión de la
+    Cátedra. Muy pronto encontrarás aquí los detalles de cada compromiso.
+  </p>
+
+  <div class="pillars">
+    <div class="pillar"><span>A</span>Derechos adquiridos</div>
+    <div class="pillar"><span>B</span>Laboratorios</div>
+    <div class="pillar"><span>C</span>Docencia y recursos</div>
+    <div class="pillar"><span>D</span>Repositorio y evaluación</div>
+    <div class="pillar"><span>E</span>Formación docente</div>
+    <div class="pillar"><span>F</span>Transparencia</div>
+  </div>
+
+  <footer>
+    <strong>Escuela de Física</strong> · Facultad de Ciencias · UASD
+  </footer>
+</body>
+</html>
