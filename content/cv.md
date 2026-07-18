@@ -579,9 +579,9 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
 
 ## Referencias profesionales {#referencias}
 
-- **Dra. Emma Encarnación** · Directora de la Escuela de Física, Facultad de
+- **Dra. Emma Encarnación** · Directora de la Escuela de Física (2022 - 2026), Facultad de
   Ciencias, UASD.
-- **Dr. Radhamés Silverio** · Vicerrector de Investigación y Postgrado, UASD.
+- **Dr. Radhamés Silverio** · Vicerrector de Investigación y Postgrado (2022 - 2026), UASD.
 - **Dr. Nery Taveras López** · Especialista curricular externo; exdirector de
   Currículum, Viceministerio de Educación Superior, MESCyT.
 
