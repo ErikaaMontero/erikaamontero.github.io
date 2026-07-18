@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+{{template "head" .}}
+</head>
+<body class="home">
+{{template "header" .}}
+<main id="contenido">
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy fade-up">
+        <p class="kicker">{{.Hero.Kicker}}</p>
+        <h1>{{.Hero.Name}}</h1>
+        <p class="hero-role">{{.Hero.Role}}</p>
+        <p class="hero-period">{{.Hero.Period}}</p>
+        <p class="hero-lead">{{.Hero.Lead}}</p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="{{.Hero.CTAURL}}">{{.Hero.CTALabel}}</a>
+          <a class="btn btn-ghost" href="/trayectoria/">Conoce su trayectoria</a>
+        </div>
+      </div>
+      <figure class="hero-photo lift-in">
+        <img src="{{.Hero.Photo}}" alt="Retrato de la Prof. Erika Montero" width="739" height="984" fetchpriority="high">
+      </figure>
+    </div>
+  </section>
+
+  <section class="stats" aria-label="Cifras destacadas">
+    <div class="wrap stats-grid">
+      {{range .Hero.Stats}}
+      <div class="stat reveal">
+        <span class="stat-value">{{.Value}}</span>
+        <span class="stat-label">{{.Label}}</span>
+      </div>
+      {{end}}
+    </div>
+  </section>
+
+  <section class="ejes" aria-labelledby="ejes-title">
+    <div class="wrap">
+      <h2 id="ejes-title" class="section-title reveal">Seis compromisos con el colectivo docente</h2>
+      <p class="section-sub reveal">Una propuesta formal, verificable y construida desde la experiencia.</p>
+      <div class="ejes-grid">
+        {{range .Hero.Ejes}}
+        <a class="eje-card reveal" href="/propuesta/#{{.ID}}">
+          <span class="eje-letter" aria-hidden="true">{{.Letter}}</span>
+          <h3>{{.Title}}</h3>
+          <p>{{.Desc}}</p>
+          <span class="eje-more" aria-hidden="true">Ver detalle →</span>
+        </a>
+        {{end}}
+      </div>
+    </div>
+  </section>
+
+  <section class="home-body">
+    <div class="wrap prose reveal">
+      {{.Content}}
+    </div>
+  </section>
+</main>
+{{template "footer" .}}
+</body>
+</html>

@@ -2,36 +2,70 @@
 
 **Coordinación de la Cátedra de Física Básica · UASD · Período 2026-2030**
 
-Este repositorio aloja el sitio web de campaña (GitHub Pages) que promociona la
-candidatura de la **Prof. Erika Alexandra Montero Lebrón** a la Coordinación de la
-Cátedra de Física Básica de la Escuela de Física, Facultad de Ciencias, Universidad
-Autónoma de Santo Domingo (UASD).
+Sitio web de campaña, publicado en <https://erikaamontero.github.io>. Es un sitio
+estático generado con un programa propio en **Go** a partir de archivos
+**Markdown**: PWA instalable, con búsqueda, previsualización al compartir enlaces
+(Open Graph) y rendimiento Lighthouse ≥ 95.
 
-> 🚧 **Sitio en construcción.** Por ahora el repositorio solo contiene esta
-> documentación inicial; el diseño y desarrollo del sitio se realizará en pasos
-> posteriores.
+## Estructura
 
-## Propuesta: ejes de compromiso
+```
+├── content/            ← contenido del sitio (Markdown con frontmatter YAML)
+│   ├── index.md          página de inicio (hero, cifras y ejes en el frontmatter)
+│   ├── propuesta.md      los seis compromisos A–F
+│   ├── trayectoria.md    semblanza y CV curado
+│   ├── galeria.md        introducción de la galería
+│   └── contacto.md
+├── fotos/              ← carpeta de fotos: suelta aquí una imagen y aparece en la galería
+│   └── captions.yaml     pies de foto con tildes (opcional, por nombre de archivo)
+├── templates/          ← plantillas HTML (Go html/template)
+├── static/             ← CSS, JS, fuentes, íconos, manifest y service worker
+├── cmd/build/          ← generador estático (go run ./cmd/build → public/)
+├── internal/site/      ← lógica del generador + unit tests
+├── e2e/                ← pruebas de interfaz con Playwright
+├── scripts/            ← lighthouse.sh (auditoría de rendimiento)
+└── .github/workflows/  ← CI: construye y publica en GitHub Pages en cada push
+```
 
-La gestión propuesta para la Cátedra se organiza en seis ejes:
+## Cómo actualizar el contenido
 
-- **A) Preservación de los derechos adquiridos.** Cumplimiento del Estatuto Orgánico y
-  la normativa vigente, y resguardo de los derechos docentes ante los procesos de
-  equivalencia de asignaturas.
-- **B) Laboratorios: prácticas e infraestructura.** Gestión de recursos para equipar y
-  renovar los laboratorios, actualización del manual de prácticas y planes de
-  mantenimiento en la Sede, recintos, centros y subcentros.
-- **C) Fortalecimiento de la docencia teórica y los recursos de aprendizaje.**
-  Actualización del libro de Física Básica, seguimiento al proceso de
-  enseñanza-aprendizaje y mejora de las condiciones de las aulas.
-- **D) Repositorio digital y sistema de evaluación de la Cátedra.** Creación de un
-  repositorio institucional de materiales y un sistema seguro para elaborar y
-  distribuir evaluaciones.
-- **E) Formación y desarrollo docente continuo.** Programa permanente de formación,
-  inducción, mentoría y acompañamiento para docentes y monitores.
-- **F) Transparencia y rendición periódica de cuentas.** Informes semestrales claros y
-  verificables sobre el plan de trabajo y los resultados alcanzados.
+1. Edita el archivo correspondiente en `content/` (o agrega fotos a `fotos/`).
+2. `git add … && git commit && git push`.
+3. GitHub Actions reconstruye y publica el sitio automáticamente (1-2 min).
 
-## Contacto
+Notas:
 
-Prof. Erika Montero — Escuela de Física, Facultad de Ciencias, UASD
+- **Fotos**: el generador las optimiza (1600 px máx., thumbnail y pie de foto). Si
+  el nombre inicia con `AAAA-MM-DD-`, la fecha se muestra en la galería. Para un
+  pie con tildes, agrega la entrada en `fotos/captions.yaml`.
+- **Nueva página**: crea `content/nombre.md` con frontmatter (`title`,
+  `description`, `slug`, `order`) y entrará sola al menú y al índice de búsqueda.
+
+## Previsualizar localmente
+
+```bash
+go run ./cmd/build          # genera public/
+cd public && python3 -m http.server 8080
+# abrir http://localhost:8080
+```
+
+## Pruebas
+
+```bash
+go test ./...               # unit tests del generador (corren también en CI)
+
+# E2E (navegación, búsqueda, galería, responsive, PWA) — requiere Chromium:
+go run github.com/playwright-community/playwright-go/cmd/playwright install chromium
+go test -tags e2e ./e2e
+
+# Auditoría Lighthouse (falla si Performance o Accessibility < 95):
+./scripts/lighthouse.sh
+```
+
+## Publicación
+
+El workflow [deploy.yml](.github/workflows/deploy.yml) corre las pruebas, genera
+`public/` y lo despliega en GitHub Pages en cada push a `main`.
+
+> ⚙️ Configuración única del repositorio: en **Settings → Pages** la fuente debe
+> ser **GitHub Actions**.

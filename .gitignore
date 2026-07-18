@@ -1,5 +1,13 @@
-# Insumos locales (no publicar)
+# Salida generada
+public/
+lighthouse-reports/
+
+# Insumos locales (no publicar): fotos sueltas y archivos fuente privados
 cv.tex
 email.eml
 *.jpeg
 *.jpg
+*.zip
+
+# La carpeta de fotos del sitio SÍ se versiona
+!fotos/**

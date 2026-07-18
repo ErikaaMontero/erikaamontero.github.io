@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+{{template "head" .}}
+</head>
+<body>
+{{template "header" .}}
+<main id="contenido">
+  <section class="page-hero">
+    <div class="wrap">
+      <h1 class="fade-up">{{.Title}}</h1>
+      <p class="page-lead fade-up-2">{{.Description}}</p>
+    </div>
+  </section>
+  <div class="wrap prose page-body">
+    {{.Content}}
+  </div>
+  <section class="wrap galeria" aria-label="Galería de fotos">
+    {{if .Photos}}
+    <div class="galeria-grid">
+      {{range .Photos}}
+      <figure class="galeria-item reveal">
+        <a href="{{.Src}}" class="lightbox-link" data-caption="{{.Caption}}{{if .Date}} · {{.Date}}{{end}}">
+          <img src="{{.Thumb}}" alt="{{.Caption}}" width="{{.ThumbW}}" height="{{.ThumbH}}" loading="lazy">
+        </a>
+        <figcaption>{{.Caption}}{{if .Date}}<time> · {{.Date}}</time>{{end}}</figcaption>
+      </figure>
+      {{end}}
+    </div>
+    {{else}}
+    <p class="galeria-empty">Pronto publicaremos fotos aquí.</p>
+    {{end}}
+  </section>
+  <dialog id="lightbox" class="lightbox" aria-label="Foto ampliada">
+    <button class="btn-icon lightbox-close" aria-label="Cerrar">✕</button>
+    <img alt="" id="lightbox-img">
+    <p id="lightbox-caption"></p>
+  </dialog>
+</main>
+{{template "footer" .}}
+</body>
+</html>

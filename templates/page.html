@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+{{template "head" .}}
+</head>
+<body>
+{{template "header" .}}
+<main id="contenido">
+  <section class="page-hero">
+    <div class="wrap">
+      <h1 class="fade-up">{{.Title}}</h1>
+      <p class="page-lead fade-up-2">{{.Description}}</p>
+    </div>
+  </section>
+  <article class="wrap prose page-body">
+    {{.Content}}
+  </article>
+</main>
+{{template "footer" .}}
+</body>
+</html>

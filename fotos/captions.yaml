@@ -1,0 +1,16 @@
+# Pies de foto de la galería.
+# Clave: nombre del archivo sin extensión. Valor: pie de foto (con tildes).
+# Las fotos sin entrada aquí usan un pie derivado del nombre del archivo.
+# Si el nombre inicia con AAAA-MM-DD, la fecha se muestra automáticamente.
+
+retrato-erika-montero: "Prof. Erika Montero"
+ponencia-en-podio-academico: "Ponencia académica"
+2026-02-04-lanzamiento-implementacion-planes-uasd: "Lanzamiento de la integración de los primeros planes de estudio rediseñados y de nueva creación, UASD"
+2025-09-15-planes-de-estudio-escuela-de-fisica: "Planes de estudio rediseñados y de nueva creación de la Escuela de Física"
+2025-09-30-graduacion-diplomado-aula-magna: "Acto de graduación del Diplomado Docente en el Enfoque por Competencias, Aula Magna UASD"
+2025-09-30-discurso-graduacion-diplomado: "Discurso en la graduación del Diplomado Docente en el Enfoque por Competencias"
+reconocimiento-diplomado-docente-competencias: "Reconocimiento en el Diplomado Docente en el Enfoque por Competencias"
+flores-acto-diplomado-competencias: "Acto del Diplomado Docente en el Enfoque por Competencias"
+promocion-nuevas-carreras-escuela-de-fisica: "Promoción de las nuevas carreras de la Escuela de Física, 60 aniversario de la Facultad de Ciencias"
+2025-08-05-proyecto-barahona-bilingue: "Proyecto Barahona Bilingüe · Imagining English (ExchangeAlumni)"
+los-inicios-en-barahona: "Los inicios, en Barahona: de estudiante a líder"

@@ -1,0 +1,16 @@
+{
+  "name": "Erika Montero · Cátedra de Física Básica UASD 2026-2030",
+  "short_name": "Erika Montero",
+  "description": "Candidatura de la Prof. Erika Montero a la Coordinación de la Cátedra de Física Básica de la UASD, período 2026-2030.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b1e3a",
+  "theme_color": "#0b1e3a",
+  "icons": [
+    { "src": "/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
