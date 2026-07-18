@@ -6,7 +6,7 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 PORT="${PORT:-8907}"
-PAGES=("/" "/propuesta/" "/trayectoria/" "/galeria/" "/contacto/")
+PAGES=("/" "/propuesta/" "/trayectoria/" "/cv/" "/galeria/" "/contacto/")
 MIN_PERF="${MIN_PERF:-95}"
 MIN_A11Y="${MIN_A11Y:-95}"
 OUT_DIR="lighthouse-reports"

@@ -3,7 +3,7 @@ title: "Contacto"
 description: "Canales institucionales para conversar sobre la propuesta de gestión de la Cátedra de Física Básica de la UASD, período 2026-2030."
 slug: "contacto"
 template: "page"
-order: 4
+order: 5
 nav_label: "Contacto"
 ---
 

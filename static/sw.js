@@ -7,6 +7,7 @@ var PRECACHE = [
   "/",
   "/propuesta/",
   "/trayectoria/",
+  "/cv/",
   "/galeria/",
   "/contacto/",
   "/js/site.js",

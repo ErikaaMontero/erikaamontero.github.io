@@ -3,7 +3,7 @@ title: "Galería"
 description: "Momentos del trabajo académico de la Prof. Erika Montero: docencia, gestión curricular, investigación y comunidad universitaria."
 slug: "galeria"
 template: "galeria"
-order: 3
+order: 4
 nav_label: "Galería"
 ---
 

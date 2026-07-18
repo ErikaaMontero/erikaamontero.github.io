@@ -12,3 +12,4 @@ email.eml
 # La carpeta de fotos del sitio y los assets estáticos SÍ se versionan
 !fotos/**
 !static/img/**
+*.pdf

@@ -36,6 +36,7 @@ func TestBuildIntegral(t *testing.T) {
 		"index.html",
 		"propuesta/index.html",
 		"trayectoria/index.html",
+		"cv/index.html",
 		"galeria/index.html",
 		"contacto/index.html",
 	}
@@ -75,7 +76,7 @@ func TestBuildIntegral(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	for _, u := range []string{"/", "/propuesta/", "/trayectoria/", "/galeria/", "/contacto/"} {
+	for _, u := range []string{"/", "/propuesta/", "/trayectoria/", "/cv/", "/galeria/", "/contacto/"} {
 		if !strings.Contains(string(sitemap), "<loc>"+BaseURL+u+"</loc>") {
 			t.Errorf("sitemap: falta %s", u)
 		}

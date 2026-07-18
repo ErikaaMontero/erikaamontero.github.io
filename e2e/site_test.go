@@ -37,7 +37,7 @@ var viewports = []viewport{
 	{"escritorio", 1440, 900},
 }
 
-var pages = []string{"/", "/propuesta/", "/trayectoria/", "/galeria/", "/contacto/"}
+var pages = []string{"/", "/propuesta/", "/trayectoria/", "/cv/", "/galeria/", "/contacto/"}
 
 func TestMain(m *testing.M) {
 	root, err := filepath.Abs("..")
@@ -154,6 +154,7 @@ func TestNavegacionEscritorio(t *testing.T) {
 	targets := map[string]string{
 		"Propuesta":   "/propuesta/",
 		"Trayectoria": "/trayectoria/",
+		"CV":          "/cv/",
 		"Galería":     "/galeria/",
 		"Contacto":    "/contacto/",
 	}
@@ -374,15 +375,33 @@ func TestPWA(t *testing.T) {
 	}
 }
 
-// TestTimelineTrayectoria: la línea de tiempo está presente y visible.
-func TestTimelineTrayectoria(t *testing.T) {
+// TestSemblanzaTrayectoria: la semblanza tiene sus secciones y fotos, y enlaza
+// al CV completo.
+func TestSemblanzaTrayectoria(t *testing.T) {
 	page, _ := newPage(t, viewports[1])
 	goTo(t, page, "/trayectoria/")
-	n, err := page.Locator("ul.timeline li").Count()
+
+	n, err := page.Locator(".prose h2").Count()
 	if err != nil {
 		t.Fatal(err)
 	}
-	if n < 5 {
-		t.Errorf("timeline con %d hitos; se esperaban al menos 5", n)
+	if n < 6 {
+		t.Errorf("semblanza con %d secciones; se esperaban al menos 6", n)
+	}
+	imgs, err := page.Locator(".prose img").Count()
+	if err != nil {
+		t.Fatal(err)
+	}
+	if imgs < 3 {
+		t.Errorf("semblanza con %d fotos; se esperaban al menos 3", imgs)
+	}
+	if err := page.Locator(`.prose a[href="/cv/"]`).Last().ScrollIntoViewIfNeeded(); err != nil {
+		t.Fatal(err)
+	}
+	if err := page.Locator(`.prose a[href="/cv/"]`).Last().Click(); err != nil {
+		t.Fatal(err)
+	}
+	if err := page.WaitForURL("**/cv/"); err != nil {
+		t.Errorf("el enlace al CV no navegó (url=%s)", page.URL())
 	}
 }

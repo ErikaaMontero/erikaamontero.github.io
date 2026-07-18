@@ -18,7 +18,7 @@ hero:
     - value: "2,780+"
       label: "docentes graduados en el Diplomado en el Enfoque por Competencias que coordinó"
     - value: "3"
-      label: "planes de estudio creados o rediseñados y aprobados (Física, Geofísica y Ciencias Atmosféricas)"
+      label: "planes de estudio de grado creados o rediseñados y aprobados (Física, Geofísica y Ciencias Atmosféricas)"
     - value: "10+"
       label: "años de docencia e investigación en la UASD"
     - value: "PhD(c)"
