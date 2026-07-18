@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-description: "Curriculum vitae completo de Erika Alexandra Montero Lebrón: experiencia profesional, trabajos curriculares, investigación, publicaciones, formación y reconocimientos."
+description: "Curriculum vitae de Erika Alexandra Montero Lebrón: experiencia profesional, trabajos curriculares, investigación, publicaciones, formación y reconocimientos."
 slug: "cv"
 template: "page"
 order: 3
