@@ -9,5 +9,6 @@ email.eml
 *.jpg
 *.zip
 
-# La carpeta de fotos del sitio SÍ se versiona
+# La carpeta de fotos del sitio y los assets estáticos SÍ se versionan
 !fotos/**
+!static/img/**
