@@ -19,8 +19,8 @@ hero:
       label: "docentes graduados en el Diplomado en el Enfoque por Competencias que coordinó"
     - value: "3"
       label: "planes de estudio de grado creados o rediseñados y aprobados (Física, Geofísica y Ciencias Atmosféricas)"
-    - value: "10+"
-      label: "años de docencia e investigación en la UASD"
+    - value: "15+"
+      label: "años de experiencia académica"
     - value: "PhD(c)"
       label: "Doctorado en Ciencias en Física Educativa (CICATA–IPN, México)"
   ejes:
