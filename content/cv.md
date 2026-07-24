@@ -15,7 +15,7 @@ nav_label: "CV"
 
 ## Experiencia profesional {#experiencia}
 
-- **Docente — UASD** · Cátedras en Física: Básica, General y Experimental ·
+- **Profesora Adjunta — UASD** · Cátedras en Física: Básica, General y Experimental ·
   Escuela de Física, Facultad de Ciencias · agosto 2016 – presente.
 - **Investigadora — UASD** · Área de investigación: Física Educativa · Instituto
   de Física, Facultad de Ciencias · agosto 2021 – presente.
