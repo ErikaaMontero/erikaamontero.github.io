@@ -166,7 +166,7 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
   capacitación en SEM y electroquímica · julio–agosto y noviembre–diciembre de
   2013.
 
-## Fondos aprobados para actividades académicas {#fondos}
+## Fondos aprobados para actividades académicas para ejecutar en la UASD {#fondos}
 
 - **Citizen Diplomacy Action Fund (CDAF) 2025, EE. UU.** · Molly Hamm, Victor
   Filpo, Erika Montero (ExchangeAlumni): *Imagining English: Language Teacher
