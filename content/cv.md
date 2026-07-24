@@ -88,30 +88,36 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
 - **Diseño Curricular, Diplomado en Ciencias Atmosféricas Aplicadas a la
   Docencia Universitaria, 2026.** En conjunto con el Dr. Daniel Martínez-Castro,
   especialista en meteorología. Coordinado desde el Área de Física Educativa del
-  Instituto de Física en colaboración con las Escuelas de Física y Geografía y
-  el Instituto Nacional de Meteorología (INDOMET). Período de ejecución:
-  2026-20.
+  Instituto de Física en colaboración con las Escuelas de Física y Geografía de
+  la Facultad de Ciencias y el Instituto Nacional de Meteorología (INDOMET).
+  Dirigido a profesores de Física, Geografía y áreas afines. Período de
+  ejecución: 2026-20 · Sede Central, Santo Domingo.
 - **Coordinadora General del Diplomado Docente en el Enfoque por Competencias.**
-  Aprobado por el Consejo de la Facultad de Ciencias de la Educación (Resolución
-  No. 2025-120), en el marco del "Año de la Reforma y la Implementación del
+  Aprobado por el Consejo de la Facultad de Ciencias de la Educación, a través
+  de la Unidad de Educación Permanente, mediante la Resolución No. 2025-120 del
+  3 de marzo de 2025, en el marco del "Año de la Reforma y la Implementación del
   Rediseño Curricular" (Resolución No. 2025-002). Designada mediante el Oficio
-  No. 099-2025 como responsable del proceso de actualización y formación docente
-  de la UASD en el Enfoque Curricular Basado en Competencias. Cohortes:
+  No. 099-2025 del 13 de febrero de 2025 como responsable del proceso de
+  actualización y formación docente de la UASD en el Enfoque Curricular Basado
+  en Competencias. Desarrollado en coordinación con la DIGEPLANDI. Cohortes:
   - Primera (marzo – julio 2025): 1,233 docentes graduados.
   - Segunda (mayo – septiembre 2025): 1,178 docentes graduados.
   - Tercera (octubre 2025 – febrero 2026): 371 docentes graduados.
 - **Rediseño Curricular, Licenciatura en Física, 2024.** Actualización del plan
   de estudios de 1993 bajo el enfoque por competencias. Aprobado por la Comisión
-  de Asuntos Docentes (Resolución 1264-2024) y el Consejo Universitario
-  (Resolución 2025-180). No Objeción del MESCyT, febrero 2026.
+  de Asuntos Docentes (Resolución No. 1264-2024, del 26 de noviembre de 2024) y
+  el Consejo Universitario (Resolución No. 2025-180, del 11 de septiembre de
+  2025). No Objeción del MESCyT, febrero 2026.
 - **Diseño Curricular, Licenciatura en Ciencias Atmosféricas, 2024.** Primera
   oferta académica en esta área en la República Dominicana. Aprobada por la
-  Comisión de Asuntos Docentes (Resolución 1265-2024) y el Consejo Universitario
-  (Resolución 2025-180). No Objeción del MESCyT, febrero 2026.
+  Comisión de Asuntos Docentes (Resolución No. 1265-2024, del 26 de noviembre de
+  2024) y el Consejo Universitario (Resolución No. 2025-180, del 11 de
+  septiembre de 2025). No Objeción del MESCyT, febrero 2026.
 - **Diseño Curricular, Licenciatura en Geofísica, 2024.** Primer plan de estudio
   en esta área en la República Dominicana. Aprobado por la Comisión de Asuntos
-  Docentes (Resolución 1263-2024) y el Consejo Universitario (Resolución
-  2025-180). No Objeción del MESCyT, febrero 2026.
+  Docentes (Resolución No. 1263-2024, del 26 de noviembre de 2024) y el Consejo
+  Universitario (Resolución No. 2025-180, del 11 de septiembre de 2025). No
+  Objeción del MESCyT, febrero 2026.
 - **Elaboración de asignaturas de grado, 2023.** Programas bajo el enfoque por
   competencias: Física Básica, Física General I, Óptica; Física Educativa,
   Diseño de Experimentos en Física; Comunicación y Divulgación en Física;
@@ -128,18 +134,20 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
   junto con la Universidad de Barcelona · octubre 2022 – octubre 2023.
 - **Diseño Curricular, Maestría en Física Educativa, 2023.** Plan de estudio
   bajo el enfoque por competencias. Aprobado por el Consejo Directivo de
-  Postgrado de la Facultad de Ciencias (Resolución 013-23).
+  Postgrado de la Facultad de Ciencias (Resolución 013-23, del 26 de julio de
+  2023).
 - **Especialista Curricular, Diseño y Desarrollo Curricular Basado en
   Competencias bajo el Catálogo Nacional de Cualificaciones (CNC)** · Formación
   Continua de la Universidad de Barcelona y MESCyT · agosto 2020 – agosto 2023.
 - **Diseño Curricular, Diplomado en Física Universitaria, 2023**, y puesta en
-  prueba como parte del propedéutico de las maestrías · Escuela de Física.
+  prueba como parte del propedéutico de las maestrías · Escuela de Física ·
+  junio 2023.
 - **Diseño Curricular, Licenciatura en Física Orientada a la Educación
   Secundaria, 2017.** Aprobado por el Sub-Consejo Directivo de la Escuela de
-  Física (Resolución 001-08-2017).
+  Física (Resolución 001-08-2017, del 23 de agosto de 2017).
 - **Rediseño Curricular, Licenciatura en Física, 2017.** Elaboración junto al
   Dr. Vladimir Pérez. Aprobado por el Sub-Consejo Directivo de la Escuela de
-  Física (Resolución 001-08-2017).
+  Física (Resolución 001-08-2017, del 23 de agosto de 2017).
 - **Elaboración de asignaturas, 2017.** Colaboración en el diseño de nuevos
   cursos y adaptación al modelo por competencias: Introducción a la Física e
   Introducción a la Física Experimental; Diseño de Experimentos I y II;
@@ -153,34 +161,52 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
   por el Departamento de Estado a través de la Embajada de EE. UU. en la
   República Dominicana · 4–22 de abril de 2022.
 - **España y Finlandia** · "Modelos de la Educación Técnica Profesional en los
-  sistemas educativos español y finlandés", organizadas a través del PROETP II
-  (MESCyT): Centros Integrados de Formación Profesional (CIFP) de Galicia,
-  Santiago de Compostela (2019); Fundación Universidad Empresa (FUE), Madrid
-  (2019); IES San Blas y Escuela Oficial de Idiomas de San Blas, Madrid (2019);
-  Modelo Finlandés de Educación Técnica y Currículum, Tampere (2019): Tampere
-  University of Applied Sciences (TAMK), colegios vocacionales TAKK, Tredu y
-  Ahlman.
-- **Puerto Rico** · Estancias de investigación en la Universidad de Puerto Rico
-  en Cayey (Centro NAMAS) y Recinto Río Piedras: síntesis y caracterización de
-  nanoestructuras 1D de LiMxMn2-xO4 para baterías recargables de ion-litio;
-  capacitación en SEM y electroquímica · julio–agosto y noviembre–diciembre de
-  2013.
+  sistemas educativos español y finlandés", así como estrategias y mecanismos de
+  garantía de calidad para la revisión curricular de la educación técnica,
+  organizadas a través del PROETP II (MESCyT): Centros Integrados de Formación
+  Profesional (CIFP) de Galicia, Santiago de Compostela (16 de enero de 2019);
+  Fundación Universidad Empresa (FUE), Madrid (23 de enero de 2019); IES San
+  Blas y Escuela Oficial de Idiomas de San Blas, Madrid (24 de enero de 2019);
+  Modelo Finlandés de Educación Técnica y Currículum, Tampere (18–22 de
+  noviembre de 2019): Tampere University of Applied Sciences (TAMK) y colegios
+  vocacionales TAKK, Tredu y Ahlman.
+- **Puerto Rico (14 de noviembre – 15 de diciembre de 2013)** · Estancia de
+  investigación en la Universidad de Puerto Rico en Cayey, con el Dr. Otaño,
+  director del Centro NAMAS (Nanoscale Materials and Structures Research
+  Center), y en el Recinto Río Piedras, en el laboratorio del Dr. Cabrera:
+  continuación del proyecto *Nanoestructuras 1D de LiMxMn2-xO4 para baterías
+  recargables de ion-litio*, con capacitación en Microscopio Electrónico de
+  Barrido (SEM) y adiestramiento en el uso de potenciostato para pruebas de
+  electroquímica.
+- **Puerto Rico (5 de julio – 5 de agosto de 2013)** · Estancia de investigación
+  en la Universidad de Puerto Rico en Cayey, con el Dr. Otaño (Centro NAMAS):
+  síntesis y caracterización de materiales del proyecto *Nanoestructuras 1D de
+  LiMxMn2-xO4 (M=Co, Ni, Cr, Fe, Al) para baterías recargables de ion-litio
+  mediante electrospinning a partir de sol-gel*, ejecutado en el INTEC y
+  liderado por el Dr. Melvin Árias.
 
 ## Fondos aprobados para actividades académicas para ejecutar en la UASD {#fondos}
 
 - **Citizen Diplomacy Action Fund (CDAF) 2025, EE. UU.** · Molly Hamm, Victor
   Filpo, Erika Montero (ExchangeAlumni): *Imagining English: Language Teacher
   Professional Development in the Dominican Republic*. Jornada de conferencias
-  para educadores y estudiantes universitarios, Barahona · Presupuesto:
+  para educadores y estudiantes universitarios realizada en Barahona, con
+  ponencias, talleres y paneles sobre ejes como el inglés para carreras STEM y
+  la investigación en la enseñanza del inglés · Código: 49782088 · Presupuesto:
   US$15,692 · 5–8 de agosto de 2025.
 - **Institute of Physics (IOP), Reino Unido** · Subvención internacional 2024
   para el evento del **Día Meteorológico Mundial**, con convenio UASD–INDOMET y
   participación de la Organización Meteorológica Mundial · Presupuesto: €500 ·
   enero–abril 2025.
-- **IAU–OAE, Programa TTP 2024** · Erika Montero, Breezy Ocaña Flaquer, Omar
-  Pérez Veloz: capacitación de astronomía para docentes universitarios que
-  impartirán la asignatura de astronomía a futuros docentes del nivel
-  preuniversitario · Presupuesto: €1,500 · agosto–diciembre 2024.
+- **IAU–OAE, Programa de Financiamiento para la Capacitación Docente (TTP)
+  2024** · Erika Montero (Coordinación del Área de Física Educativa), Breezy
+  Ocaña Flaquer (miembro del equipo NAEC, doctora en Astrofísica) y Omar Pérez
+  Veloz (astrónomo aficionado, ASTRODOM): *Capacitación de Astronomía para
+  Docentes en las Universidades que Impartirán la Asignatura de Astronomía a los
+  Futuros Docentes del Nivel Preuniversitario de las Carreras de Educación
+  Secundaria Mención Matemática y Física* · Oficina de Astronomía para la
+  Educación (OAE), Unión Astronómica Internacional (IAU) · Presupuesto: €1,500 ·
+  agosto–diciembre 2024.
 - **FONDOCyT 2023 (2024–2026)** · Erika Montero (investigadora principal),
   Ricardo García e Isidro Gómez (asesores): *Mejorando la Enseñanza de Física en
   América Latina: Identificación de Características de Docentes y Centros
@@ -189,19 +215,30 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
 - **FONDOCyT 2023 (2024–2026)** · Franmis Rodríguez (investigador principal),
   Erika Montero (co-investigadora), Dra. Chandralekha Singh (asesora): *Aula
   invertida como innovación en la enseñanza de la física y su impacto en el
-  rendimiento académico de los estudiantes de la UASD* · Código
+  rendimiento académico de los estudiantes de la UASD Recinto San Francisco de
+  Macorís y Sede Central: propuesta de intervención* · Código
   FONDOCYT-2023-1-1A5-0559 · Presupuesto: RD$7,367,539.55.
 - **Financiamiento interno UASD (2021–2023)** · Erika Montero (investigadora
   principal), Emma Encarnación (co-investigadora): *Estudio de concepciones
   previas de cinemática y leyes de Newton en estudiantes de ciencias e
-  ingeniería* · Resolución 2022-099 · Presupuesto: RD$2,915,262.20.
+  ingeniería* · Aprobado por el Honorable Consejo Universitario, en sesión del
+  31 de marzo de 2022, mediante la Resolución No. 2022-099 · Presupuesto:
+  RD$2,915,262.20.
 
 ## Participación en programas y comités académicos {#comites}
 
-- **Jurado de tesis de maestría** (2025): Osvaldo Peguero Rodríguez (clases
-  demostrativas interactivas con simuladores, calificación 94) y Jefferson
-  Cabrera Cruz (aula invertida en trabajo, energía y termodinámica,
-  calificación 92) · Maestría en Física, UASD.
+- **Jurado de tesis de maestría** · Maestría en Física, UASD · defensas del 29
+  de octubre de 2025:
+  - Osvaldo Peguero Rodríguez: *Impacto en el Aprendizaje Mediante Clases
+    Demostrativas Interactivas Articulado con Simuladores Interactivos para la
+    Comprensión de Circuitos de Corriente Directa en Estudiantes de 6to. Grado
+    de Secundaria Ciencia y Tecnología del Liceo Secundario* · asesor: Prof.
+    Cristian Casilla · calificación: 94.
+  - Jefferson Cabrera Cruz: *Impacto del Aula Invertida en el Aprendizaje y la
+    Resolución de Problemas Sobre Contenidos de Trabajo, Energía y
+    Termodinámica en Estudiantes de 6to. Grado de Secundaria del Instituto San
+    Juan Bautista, Santo Domingo, 2024-2025* · asesor: Dr. Franmis Ramírez ·
+    calificación: 92.
 - **Miembro de la Comisión de Honor del CICATA-Legaria** · Colegio de Profesores
   del CICATA-Unidad Legaria, IPN, México · octubre 2025 – presente.
 - **Miembro de la Comisión de Validación de Certificaciones** · revisión y
@@ -210,11 +247,17 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
 - **Miembro del Comité Evaluador** de la Primera y Segunda Cohorte del Diplomado
   Docente en el Enfoque por Competencias: revisión, evaluación y seguimiento de
   las Guías Didácticas · UASD · 2025.
-- **Asesorías de tesis de maestría** (defensas 2024): Reynaldo González (Leyes
-  de Newton, calificación 94), Milton Cabrera (Cinemática, calificación 90) y
-  Efraín Marte (Trabajo y Energía, calificación 92) — especificaciones para
-  pruebas escritas con Diseño Centrado en Evidencias · co-asesora: Dra. Emma
-  Encarnación.
+- **Asesorías de tesis de maestría** · Maestría en Física, UASD · co-asesora:
+  Dra. Emma Encarnación · defensas del 7 de diciembre de 2024:
+  - Reynaldo González: *Desarrollo de Especificaciones para Pruebas Escritas en
+    Leyes de Newton con un Enfoque de Diseño Centrado en Evidencias para
+    Estudiantes de Ciencias e Ingeniería* · calificación: 94.
+  - Milton Cabrera: *Desarrollo de Especificaciones para Pruebas Escritas en
+    Cinemática con un Enfoque de Diseño Centrado en Evidencias para Estudiantes
+    de Ciencias e Ingeniería* · calificación: 90.
+  - Efraín Marte: *Desarrollo de Especificaciones para Pruebas Escritas en
+    Trabajo y Energía con un Enfoque de Diseño Centrado en Evidencias para
+    Estudiantes de Ciencias e Ingeniería* · calificación: 92.
 - **Miembro del Comité Evaluador — IFIS** · Concurso de Auxiliar de
   Investigación del Instituto de Física, junto a la Dra. Emma Encarnación y la
   Prof. Norma Febrillet · abril–mayo 2024.
@@ -233,47 +276,56 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
 
 ## Talleres y cursos impartidos {#talleres-impartidos}
 
-- **Modelos Pedagógicos y Diseño Instruccional** · Maestría en Metodología STEM
-  (INAFOCAM) · Recinto UASD-Barahona, virtual · junio–julio 2026.
+- **Modelos Pedagógicos y Diseño Instruccional** · Maestría en Metodología STEM,
+  financiada por el INAFOCAM · Recinto UASD-Barahona · del 14 de junio al 5 de
+  julio de 2026, en modalidad virtual a través de UASDVirtual.
 - **Metodologías para Entornos Virtuales de Aprendizaje (EVA)** · capacitación
-  de Tutor Virtual, Dirección de Educación Virtual, UASD · mayo 2026.
+  de Tutor Virtual, Dirección de Educación Virtual, UASD · 6 y 13 de mayo de
+  2026, en modalidad virtual a través de UASDVirtual.
 - **Diplomado Docente en el Enfoque por Competencias** (tres cohortes,
-  2025–2026): "Introducción al Enfoque Curricular Basado en Competencias" y
-  "Elaboración de Guías Didácticas para la Implementación del Enfoque
-  Curricular por Competencias".
+  2025–2026): "Introducción al Enfoque Curricular Basado en Competencias"
+  (primera cohorte) y "Elaboración de Guías Didácticas para la Implementación
+  del Enfoque Curricular por Competencias" (las tres cohortes).
 - **Herramientas Tecnológicas para la Gestión de Procesos de Evaluación Interna
-  y Externa** · Máster de Evaluación de la Calidad en Educación, IGLOBAL ·
-  agosto 2024.
+  y Externa** · Máster de Evaluación de la Calidad en Educación, Instituto
+  Global de Altos Estudios en Ciencias Sociales (IGLOBAL) · del 5 al 31 de
+  agosto de 2024: ocho encuentros virtuales y cierre presencial en FUNGLODE.
 - **Enfoque por Competencias Aplicado al Diseño Instruccional en el Postgrado**
   · Diplomado en Diseño Instruccional para la Educación Virtual en Postgrado,
-  UASD · julio 2024.
+  Dirección de Educación Virtual, UASD · 15 y 17 de julio de 2024, en modalidad
+  virtual a través de UASDVirtual.
 - **Diplomado sobre Procesos Didácticos Pedagógicos para Aplicar el Enfoque por
-  Competencias** · Educación Continua, FCE-UASD · julio–octubre 2021:
+  Competencias** · Educación Continua, FCE-UASD · promoción julio–octubre 2021:
   "Evaluación de los aprendizajes desde el enfoque de competencias" y "Diseño
   de guía didáctica docente basada en el enfoque por competencias".
 - **Fortalecimiento del Diseño de Planes de Estudio: Mapeo y Malla Curricular** ·
-  Escuela de Psicología, UASD · diciembre 2023.
+  Escuela de Psicología, Facultad de Humanidades, UASD · 8 de diciembre de
+  2023, modalidad en línea.
 - **Taller sobre Herramientas y Estrategias para la Docencia y la Planificación
-  Curricular** (con Casilda Ávila) · DIGEPLANDI, UASD · noviembre 2023.
+  Curricular** (con Casilda Ávila) · impartido a coordinadores curriculares de
+  escuelas y docentes de apoyo al proceso curricular · DIGEPLANDI, UASD · 15 de
+  noviembre de 2023.
 - **Elaboración de Programas de Asignaturas bajo el Enfoque por Competencias** ·
-  Escuela de Física, UASD · agosto 2023.
+  Escuela de Física, UASD · 10 de agosto de 2023.
 - **Transformación Curricular para los Programas de Física bajo el Enfoque por
-  Competencias** · Escuela de Física, UASD · julio 2023.
-- **Taller de perfeccionamiento docente sobre recursos tecnológicos en la
-  docencia virtual** (con Emma Encarnación y Evelin Álvarez) · Escuela de
-  Física, UASD · septiembre 2020.
+  Competencias** · Escuela de Física, UASD · 17 de julio de 2023.
+- **Taller de perfeccionamiento docente sobre el uso y aplicación de recursos
+  tecnológicos en la docencia virtual** (con Emma Encarnación y Evelin Álvarez)
+  · Escuela de Física, UASD · 14 y 15 de septiembre de 2020.
 - **Taller sobre Diseño de Competencias para Carreras de Informática** (con
-  Yasmin Hernández) · Escuela de Informática, UASD · agosto 2020.
+  Yasmin Hernández) · Escuela de Informática, UASD · 25 de agosto de 2020.
 - **Taller sobre Elaboración de Pruebas Escritas para Evaluar Competencias en
-  Física** (con Domingo Pérez) · Recintos UASD-Santiago y San Francisco de
-  Macorís · julio 2019.
+  Física** (con Domingo Pérez) · 20 de julio en el Recinto UASD-Santiago (6 h)
+  y 27 de julio en el Recinto UASD-San Francisco de Macorís (3 h) · Escuela e
+  Instituto de Física, UASD · 2019.
 - **Taller sobre Elaboración de Programas por Competencia** · Escuela de
-  Psicología, UASD · junio 2019.
+  Psicología, UASD · 28 de junio de 2019.
 - **Taller sobre Prácticas de Laboratorio en el Enfoque por Competencias** (con
   Emma Encarnación, Domingo Pérez y Omar Pérez) · Escuela e Instituto de
-  Física, UASD · mayo 2019.
+  Física, UASD · 27 de mayo de 2019.
 - **Taller sobre Elaboración de Pruebas Escritas para Evaluar Competencias en
-  Ciencias** · 53 aniversario de la Facultad de Ciencias, UASD · mayo 2019.
+  Ciencias** (con Emma Encarnación, Domingo Pérez y Omar Pérez) · 53
+  aniversario de la Facultad de Ciencias, UASD · 20 de mayo de 2019.
 
 ## Educación {#educacion}
 
@@ -463,25 +515,28 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
   *Aula Invertida vs. Clase Tradicional en Física: percepción, satisfacción y
   perfil sociodemográfico en la UASD*. ASCE Magazine, agosto 2025.
   DOI: 10.70577/ASCE/1762.1792/2025.
-- Evarista Matías, Israel Contreras, Abel Capellán, **Erika Montero** *et al.*
-  *Normativa para el Sistema Nacional de Prácticas y Pasantías Profesionales en
-  la Educación Superior*. MESCyT, Resolución No. 02-2025, mayo 2025.
+- Evarista Matías, Israel Contreras, Abel Capellán, **Erika Montero**, …, Noemi
+  Custodia-Lora. *Normativa para el Sistema Nacional de Prácticas y Pasantías
+  Profesionales en la Educación Superior*. MESCyT, Resolución No. 02-2025, del
+  22 de mayo de 2025.
 - Franmis Rodríguez, **Erika Montero**, Frank De La Cruz, Gerhard Sánchez.
   *Impacto del modelo de aula invertida en el rendimiento académico en Física
   Básica a nivel universitario*. MQRInvestigar, junio 2025.
   DOI: 10.56048/MQR20225.9.2.2025.e664.
 - **Erika Montero**. *Rúbrica de Evaluación para el Nivel Técnico Superior*.
   MESCyT, Dirección de Currículum, junio 2020.
-- **Erika Montero**, Nery Taveras, Felipe Castillo *et al.* *Guía para el
-  Diseño de Planes de Estudio del Nivel Técnico Superior*. MESCyT, Dirección de
-  Currículum, junio 2020.
+- **Erika Montero**, Nery Taveras, Felipe Castillo, Maribel Dionicio,
+  Inmaculada Mateo, Pablo Sméster, Vhyna Ortega, …, Huanda Segura. *Guía para
+  el Diseño de Planes de Estudio del Nivel Técnico Superior*. MESCyT,
+  Viceministerio de Educación Superior, Dirección de Currículum, junio 2020.
 - **Erika Montero**. *Manual de Inducción del Estudiante de Física*. Escuela de
   Física, UASD, agosto 2019.
 - **Erika Montero** (edición). *Primer Boletín Informativo Semestral de la
   Escuela de Física*, semestre 2018-20. UASD, enero 2019.
-- Rafael Luciano *et al.* (incluida **Erika Montero**). *Protocolo para la
-  Presentación y Evaluación de Planes de Estudio*. MESCyT, Dirección de
-  Currículum, noviembre 2018.
+- Rafael Luciano, Adrián Gutiérrez, Ana Ramírez, Ana Valerio, Antonio Delgado,
+  Dalul Ordehi, …, **Erika Montero**, …, Yajaira Oviedo. *Protocolo para la
+  Presentación y Evaluación de Planes de Estudio*. MESCyT, Viceministerio de
+  Educación Superior, Dirección de Currículum, noviembre 2018.
 - **Erika Montero**. *Investigation of the structure of curved single crystal
   surfaces of Pd and Ni*. Tesis de Máster en Nanociencias, University of the
   Basque Country, España, 2015.
@@ -492,43 +547,104 @@ Española de Cooperación Internacional para el Desarrollo (AECID):
 
 ## Organización y apoyo a eventos científicos y educativos {#eventos}
 
-- Coordinación de la visita a la UASD del físico japonés Dr. Kazuo Tanaka
-  (Global Cosmics, IPPOG), Sede y recintos de Azua y Barahona · agosto 2026.
+- Coordinación y gestión de la visita a la UASD del físico japonés Dr. Kazuo
+  Tanaka, investigador en física de partículas y coordinador del programa
+  Global Cosmics del International Particle Physics Outreach Group (IPPOG), a
+  través del Área de Física Educativa · Sede y recintos de Azua y Barahona ·
+  11 y 12 de agosto de 2026.
 - Moderadora en el XXI Congreso Internacional de Investigación Científica,
-  MESCyT · julio 2026.
-- Lanzamiento de las ediciones 2025 y 2026 del programa **"Habla con Ellas:
-  Caribeñas en Astronomía"** · Instituto de Física UASD, Caribbean Astronomy
-  for Inclusion (CAI), ASTRODOM, IAU.
+  Viceministerio de Ciencia y Tecnología, MESCyT · PUCMM, tandas matutina y
+  vespertina · 2 de julio de 2026.
+- Lanzamiento de la edición 2026 del programa **"Habla con Ellas: Caribeñas en
+  Astronomía"** · Instituto de Física UASD, en colaboración con Caribbean
+  Astronomy for Inclusion (CAI), Fundación Generationes, ASTRODOM e IAU, en
+  conmemoración del Día Internacional de la Mujer y la Niña en la Ciencia ·
+  febrero–mayo 2026.
 - Miembro del Comité Organizador del 1er Simposio de Ciencias en el Nivel
-  Universitario: Enseñanza y Evaluación · UASD · noviembre 2025.
-- Creación del espacio web **"Science Students UASD"**: recursos educativos y
-  oportunidades profesionales para estudiantes y egresados STEM · enero 2025.
+  Universitario: Enseñanza y Evaluación, en el marco del IV Congreso
+  Internacional I+D+i y la XXIV Jornada de Investigación Científica ·
+  Vicerrectoría de Investigación y Postgrado, UASD · 18–20 de noviembre de
+  2025.
+- Lanzamiento de la edición 2025 del programa **"Habla con Ellas: Caribeñas en
+  Astronomía"** · Instituto de Física UASD y Caribbean Astronomy for Inclusion
+  (CAI) · febrero–mayo 2025.
+- Creación del espacio web **"Science Students UASD"**: acceso a recursos
+  educativos y oportunidades profesionales, actualizados mensualmente, para
+  estudiantes y egresados STEM, con la colaboración de profesores, estudiantes
+  y egresados de la Facultad de Ciencias y el respaldo de la Dirección General
+  de Cooperación y Relaciones Nacionales e Internacionales de la UASD ·
+  lanzado el 10 de enero de 2025.
 - Moderadora en el III Congreso Internacional I+D+i y la XXIII Jornada de
-  Investigación Científica, UASD · noviembre 2024.
+  Investigación Científica, UASD · 21 de noviembre de 2024.
 - Moderadora en el XV Seminario de Investigación Científica e Innovación
-  Tecnológica, MESCyT · UASD-Barahona · diciembre 2023.
-- Colaboración en la 4.ª Noche Iberoamericana de l@s Investigador@s, OEI ·
-  septiembre 2023.
-- Final Exam Supervisor y Public Relations Manager · International Youth Math
-  Challenge 2023.
-- Organización de la participación de la Facultad de Ciencias en el campamento
-  Finde STEM (MESCyT-ONAPI, 2022) y en la XXIV Feria Internacional del Libro
-  (2022).
+  Tecnológica, Viceministerio de Ciencia y Tecnología, MESCyT ·
+  UASD-Barahona · 8 de diciembre de 2023.
+- Colaboración en la 4.ª Noche Iberoamericana de l@s Investigador@s,
+  organizando actividades de divulgación científica · OEI · 29 y 30 de
+  septiembre de 2023.
+- Approved Final Exam Supervisor y Public Relations Manager · International
+  Youth Math Challenge 2023.
+- Campamento Verano Innovador (Finde STEM): organizadora principal, junto a
+  los maestros de Química Isabel Brito, Alejandro Santos y Beatríz Sánchez, de
+  la participación de la Facultad de Ciencias con sus siete escuelas e
+  institutos de investigación · MESCyT y ONAPI · 10 de agosto de 2022.
+- Facilitadora en charla y orientación vocacional a alumnos de secundaria en
+  áreas de ciencias · Centro Educativo Siglo XXI · 21 de marzo de 2022.
+- XXIV Feria Internacional del Libro: organizadora principal, junto a la
+  Mtra. Estrella del Mar, de la participación de las siete escuelas de la
+  Facultad de Ciencias en actividades de divulgación científica · 23 de abril
+  al 2 de mayo de 2022.
 - Apoyo logístico al Congreso Internacional de la Sociedad Dominicana de Física
-  (CI-SoDoFi) · enero 2020.
+  (CI-SoDoFi) · Coral Costa Caribe · 16 y 17 de enero de 2020.
 - Miembro del Comité Nacional para nombrar la estrella WASP-6 y el exoplaneta
-  WASP-6b asignados a la República Dominicana (IAU100 NameExoWorlds) · 2019.
-- Organizadora de la XVII Olimpiada Nacional de Física (MINERD y Escuela de
-  Física, 2019) y de las actividades del 53 aniversario de la Facultad de
-  Ciencias (2019).
-- Organización de conferencias y paneles científicos con la SODOFI y la Escuela
-  de Física (2018–2019).
-- Competencias de Reyes, Veranos Educativos y talleres de ciencias con la
-  Fundación Trúcano; actividades lúdico-educativas con Plan Internacional y
-  SOEBA · Barahona y el sur del país · 2013–2017.
+  WASP-6b asignados a la República Dominicana (IAU100 NameExoWorlds), junto a
+  Mayte Vásquez (primera astrofísica dominicana) y Manuel Grullón (presidente
+  de ASTRODOM) · 2019.
+- Panel "Experiencias de Estudiantes con el Centro Internacional de Física
+  Teórica (ICTP)" · Facultad de Ciencias, UASD · 14 de agosto de 2019.
+- Organizadora de la XVII Olimpiada Nacional de Física, Olimpiada Nacional de
+  Ciencias de la Naturaleza · MINERD y Escuela de Física, UASD · 9 de mayo de
+  2019.
+- Organizadora de la feria científica y los talleres del Instituto y la
+  Escuela de Física en el 53 aniversario de la Facultad de Ciencias · mayo
+  2019.
+- Conferencia "Uso de la Tecnología para la Enseñanza de la Física", por
+  Vinicio Romero, M.Sc. · SODOFI y Escuela de Física · 4 de abril de 2019.
+- Feria científica y entrega de materiales de promoción de la Licenciatura en
+  Física en el Centro de Excelencia República de Colombia, junto a Omar Pérez,
+  a través del Instituto de Física · marzo 2019.
+- Conferencia "Nanociencias y Transporte Cuántico" · Grupo Especializado de
+  Física de Materiales y Fisicoquímica, SODOFI · Escuela de Física, UASD ·
+  21 de febrero de 2019.
+- Conferencia "Políticas de Investigación en Ciencia y Tecnología: la
+  necesidad de crear sinergia en la Triple Hélice" · SODOFI · PUCMM · 6 de
+  diciembre de 2018.
+- Conferencia "Sistema Eléctrico de República Dominicana: Perspectiva
+  Científico-Tecnológica, Económica y Ambiental" · SODOFI · INTEC · 15 de
+  noviembre de 2018.
+- "Historia e Informe Actual de la SODOFI" · SODOFI · Universidad Católica
+  Santo Domingo (UCSD) · 31 de octubre de 2018.
+- Panel "Historia de la Física en República Dominicana" · SODOFI y Escuela de
+  Física, UASD · 17 de octubre de 2018.
+- I y II Competencia de Reyes con Trúcano (ciencias, ortografía, pintura y
+  dibujo, deportes y teatro), con el apoyo de ERC International y la Revista
+  Tobogán · Barahona · 2015–2017.
+- Veranos Educativos con Trúcano: actividades científicas de física y química
+  para niños, adolescentes y jóvenes, incluido el taller "Disfrutando con la
+  Ciencia" · Barahona · 2014–2015.
+- Actividades lúdico-educativas de los campamentos 2014 de Plan Internacional ·
+  La Ciénaga, Bahoruco (Barahona) y Vallejuelo (San Juan de la Maguana) ·
+  agosto 2014.
+- Actividades científicas y educativas de la Fundación Trúcano en la 1.ª Feria
+  de la Biosfera Jaragua-Bahoruco-Enriquillo (SOEBA, 7–10 de noviembre de
+  2013) y participación en el concurso "Pinta la Belleza de la Reserva"
+  (SOEBA, 2013).
+- Taller de Ciencias con Trúcano: cristalización, gases y baterías, magnetismo
+  y tensión, huellas dactilares · Barahona · verano 2013.
 - Tutora en matemáticas, lengua española y artemanía en el Verano Educativo
-  Salesiano (Centro Educativo Cristo Rey) y de forma independiente en el barrio
-  30 de Mayo · 1998–2012.
+  Salesiano (Centro Educativo Cristo Rey, 1998–2003) y de forma independiente
+  con niños y adolescentes del barrio 30 de Mayo hasta la formalización de la
+  Fundación Trúcano en 2012.
 
 ## Afiliaciones {#afiliaciones}
 
