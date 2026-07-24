@@ -30,8 +30,24 @@ estático generado con un programa propio en **Go** a partir de archivos
 ## Cómo actualizar el contenido
 
 1. Edita el archivo correspondiente en `content/` (o agrega fotos a `fotos/`).
-2. `git add … && git commit && git push`.
-3. GitHub Actions reconstruye y publica el sitio automáticamente (1-2 min).
+2. `make publish MSG="Describe tu cambio"`.
+3. GitHub Actions reconstruye y publica el sitio automáticamente (1-2 min);
+   confirma con `make verify-live`.
+
+Todos los comandos del proyecto están en el `Makefile` (lista completa con
+`make help`):
+
+| Comando | Qué hace |
+|---|---|
+| `make build` | Genera el sitio en `public/` |
+| `make serve` | Genera y sirve en `http://localhost:8080` (`PORT=…` para cambiarlo) |
+| `make test` | Unit tests del generador |
+| `make e2e` | Pruebas de interfaz con Playwright (antes, una vez: `make browsers`) |
+| `make lighthouse` | Auditoría de rendimiento/accesibilidad (falla si < 95) |
+| `make check` | `test` + `e2e` + `lighthouse`: verificación completa |
+| `make publish` | Prueba, comitea (`MSG="…"`) y hace push para desplegar |
+| `make verify-live` | Comprueba que el sitio publicado responde |
+| `make clean` | Borra `public/` y reportes |
 
 Notas:
 
@@ -44,23 +60,30 @@ Notas:
 ## Previsualizar localmente
 
 ```bash
-go run ./cmd/build          # genera public/
-cd public && python3 -m http.server 8080
-# abrir http://localhost:8080
+make serve        # genera y sirve en http://localhost:8080
 ```
 
 ## Pruebas
 
 ```bash
-go test ./...               # unit tests del generador (corren también en CI)
+make test         # unit tests del generador (corren también en CI)
+make browsers     # una sola vez: instala el Chromium de Playwright
+make e2e          # E2E: navegación, búsqueda, galería, responsive, PWA
+make lighthouse   # auditoría (falla si Performance o Accessibility < 95)
+make check        # todo lo anterior junto
+```
 
-# E2E (navegación, búsqueda, galería, responsive, PWA) — requiere Chromium:
+<details>
+<summary>Comandos equivalentes sin make</summary>
+
+```bash
+go run ./cmd/build
+go test ./...
 go run github.com/playwright-community/playwright-go/cmd/playwright install chromium
 go test -tags e2e ./e2e
-
-# Auditoría Lighthouse (falla si Performance o Accessibility < 95):
 ./scripts/lighthouse.sh
 ```
+</details>
 
 ## Publicación
 
